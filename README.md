@@ -21,6 +21,13 @@ CISA Cyber Defense Analyst training and NIST Incident Response guidelines.
 - MITRE ATT&CK
 - CISA Incident Response guidance
 
+## 🛡️ SOC & Defensive Security Practice
+
+- SOC Member Badge – LetsDefend (Hack The Box)
+- Hands-on SOC Analyst learning path
+- Phishing and SIEM alert investigations
+- Incident response documentation
+
 ## Disclaimer
 This project is for educational purposes only. No real production data is used.
 
